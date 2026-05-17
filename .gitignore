@@ -1,6 +1,8 @@
 # Virtual env
 .venv
+.gitignore
 # Python cache
+.pytest_cache/
 __pycache__/
 *.py[cod]
 # Jupyter
