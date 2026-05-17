@@ -9,4 +9,5 @@ __pycache__/
 .ipynb_checkpoints/
 # Project PDF (ignored as requested)
 Capstone_Project.docx
+final_scientific_report.txt
 
