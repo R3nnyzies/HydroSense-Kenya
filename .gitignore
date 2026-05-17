@@ -1,0 +1,10 @@
+# Virtual env
+.venv
+# Python cache
+__pycache__/
+*.py[cod]
+# Jupyter
+.ipynb_checkpoints/
+# Project PDF (ignored as requested)
+Capstone_Project.docx
+
