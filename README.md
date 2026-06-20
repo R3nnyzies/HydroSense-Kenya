@@ -65,13 +65,6 @@ The project is organized into several directories:
 
 Detailed usage instructions will be provided in the respective Jupyter notebooks and source code files.
 
-## Contributing
-
-We welcome contributions to the HydroSense-Kenya project! Please see `CONTRIBUTING.md` (if available) for guidelines on how to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
 
