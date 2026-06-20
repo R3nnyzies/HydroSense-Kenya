@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-For any inquiries, please contact [Your Name/Email/GitHub Profile].
+For any inquiries, please contact renny.kiprono@students.jkuat.ac.ke.
